@@ -1,4 +1,4 @@
-/* SWEN20003 project 2b. Code written by Henry Mcgee. October 2020
+/* SWEN20003 project 2b. Author - Henry Mcgee. October 2020
 
     Comment on the design - I chose to design this project with extendability
     in mind. The number of Actor subclasses could have been reduced by having
